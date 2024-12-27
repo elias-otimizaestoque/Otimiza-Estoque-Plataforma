@@ -4,6 +4,55 @@
 
 ![Measuring-Warehouse-Performance-2_900x506](https://github.com/user-attachments/assets/49ba0570-d380-4591-ba36-d50e7632d763)
 
+# 📞 **Entre em Contato com Elias!** 🚀
+
+💡 **Tem um projeto inovador? Busca parcerias estratégicas? Quer transformar ideias em realidade?**  
+Estou à disposição para colaborar em **projetos**, estabelecer **parcerias** ou contribuir com **soluções tecnológicas** personalizadas. Vamos juntos criar o futuro da tecnologia! 🌟✨
+
+---
+
+### 📲 **Fale Agora pelo WhatsApp**
+📱 **Número:** [11 9 1335-3137](https://wa.me/55119913353137)  
+👤 **Contato:** Elias Andrade  
+⏰ **Disponibilidade:** Segunda a Sexta - 9h às 18h  
+
+💬 **Clique no link para iniciar a conversa diretamente:**  
+[🌟 **Enviar Mensagem no WhatsApp** 🌟](https://wa.me/55119913353137)
+
+---
+
+### 🌟 **Chamada para Ações**
+- 🤝 **Parcerias Estratégicas:** Vamos inovar juntos e trazer soluções para o mercado!  
+- 🔧 **Consultoria e Desenvolvimento:** Criação de sistemas integrados, automação e muito mais.  
+- 🎯 **Colaboração em Projetos:** Desde protótipos a grandes implementações.  
+- 💡 **Inovações Tecnológicas:** IA, otimização de processos, automações e insights baseados em dados.  
+
+---
+
+## 🛡️ **Badges de Parceria e Contato**
+
+#### **💡 Projetos e Soluções**
+![Projetos](https://img.shields.io/badge/Projetos%20Inovadores%20%F0%9F%92%BB-blue)
+![Automação](https://img.shields.io/badge/Automatiza%C3%A7%C3%A3o%20e%20IA%20%F0%9F%A4%96-green)
+![Soluções Personalizadas](https://img.shields.io/badge/Solu%C3%A7%C3%B5es%20Personalizadas%20%F0%9F%8C%8D-orange)
+
+#### **🤝 Parcerias**
+![Parcerias Estratégicas](https://img.shields.io/badge/Parcerias%20Estrat%C3%A9gicas%20%F0%9F%92%AA-lightgreen)
+![Colaboração](https://img.shields.io/badge/Colabora%C3%A7%C3%A3o%20em%20Projetos%20%F0%9F%9A%80-yellow)
+![Transformação Digital](https://img.shields.io/badge/Transforma%C3%A7%C3%A3o%20Digital%20%F0%9F%93%88-lightblue)
+
+#### **🔧 Consultoria e Desenvolvimento**
+![Consultoria](https://img.shields.io/badge/Consultoria%20Especializada%20%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB-red)
+![Desenvolvimento](https://img.shields.io/badge/Desenvolvimento%20de%20Solu%C3%A7%C3%B5es%20%F0%9F%92%A1-blue)
+![Eficiência](https://img.shields.io/badge/Efici%C3%AAncia%20e%20Inova%C3%A7%C3%A3o%20%F0%9F%A4%AF-orange)
+
+#### **🎯 Contato**
+![WhatsApp](https://img.shields.io/badge/WhatsApp%20Contato%20%F0%9F%93%9E-brightgreen)
+![Elias Andrade](https://img.shields.io/badge/Contato%3A%20Elias%20Andrade%20%F0%9F%91%A4-blue)
+![Disponibilidade](https://img.shields.io/badge/Disponibilidade%20Imediata%20%E2%9C%85-yellow)
+![Horários](https://img.shields.io/badge/Hor%C3%A1rio%3A%209h--18h%20%F0%9F%95%91-lightblue)
+
+---
 
 O **OtimizaEstoque.com.br** é uma plataforma SaaS de última geração, desenvolvida para transformar a gestão de estoque, compras e cadeia de suprimentos das empresas. O sistema utiliza **inteligência artificial (IA)** avançada, **análise preditiva** e um **ecossistema de agentes autônomos** para fornecer **insights profundos**, otimizar processos e **tomar decisões automatizadas** para melhorar a performance e reduzir custos. 
 
