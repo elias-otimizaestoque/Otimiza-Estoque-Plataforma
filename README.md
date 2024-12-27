@@ -2,43 +2,12 @@
 
 ## Visão Geral
 
+![Measuring-Warehouse-Performance-2_900x506](https://github.com/user-attachments/assets/49ba0570-d380-4591-ba36-d50e7632d763)
+
+
 O **OtimizaEstoque.com.br** é uma plataforma SaaS de última geração, desenvolvida para transformar a gestão de estoque, compras e cadeia de suprimentos das empresas. O sistema utiliza **inteligência artificial (IA)** avançada, **análise preditiva** e um **ecossistema de agentes autônomos** para fornecer **insights profundos**, otimizar processos e **tomar decisões automatizadas** para melhorar a performance e reduzir custos. 
 
 A solução está em sua fase final de desenvolvimento, com a integração de múltiplos **nodos (filiais)** e comunicação inteligente entre agentes, permitindo a análise e integração de dados de **estoque**, **compras** e **fornecedores** de maneira eficaz e escalável.
-
-![chrome_EAfxpGdy5F](https://github.com/user-attachments/assets/27130338-9f54-49c3-b1df-c5561ccd6be4)
-
-![chrome_SqdcoMVySm](https://github.com/user-attachments/assets/0d0f2150-f5b2-4288-a26a-b3abb64b477c)
-
-![chrome_u1Um62q6qP](https://github.com/user-attachments/assets/3f99b029-8eb7-4f90-86d2-6e1c4348e6cf)
-
-![chrome_YAUGHDjfFB](https://github.com/user-attachments/assets/6a155017-3869-4f4f-a998-c1d8b28e10e8)
-
-![chrome_Q8NFw3uPr7](https://github.com/user-attachments/assets/9b14f2b2-060f-4c35-a7e7-deefc212282e)
-
-![chrome_l2NeZu6ALc](https://github.com/user-attachments/assets/83c9e505-4f37-4c28-9182-93ab1b161683)
-
-![chrome_7ARIsI1pyb](https://github.com/user-attachments/assets/65ae335d-0ba2-40cf-9c44-395427d1669d)
-
-![chrome_ngBLFdMmNX](https://github.com/user-attachments/assets/d7b07b16-f95d-4fe3-8950-a3d8d70f13af)
-
-![chrome_dEblMFil0k](https://github.com/user-attachments/assets/1d878fa9-db9c-48ad-9073-8a8bdfbf198e)
-
-![chrome_yyzhA0uLw5](https://github.com/user-attachments/assets/5ed939dc-ba2d-48b4-857c-f414121eca29)
-
-![chrome_0golEkLNtO](https://github.com/user-attachments/assets/1dfd8276-9b07-4532-bce4-a47aeb661121)
-
-![chrome_XkSW2vBEj1](https://github.com/user-attachments/assets/76c63e5a-a4cd-4057-9b69-ceb30cc888b2)
-
-![chrome_RCRQh4Zq4U](https://github.com/user-attachments/assets/ee2d91ca-f1e5-49c5-959e-ad874e080a91)
-
-![chrome_AD4VqkWvcW](https://github.com/user-attachments/assets/0f7e30f6-d4bc-4fd0-bda5-9ba04a6597fa)
-
-![Measuring-Warehouse-Performance-2_900x506](https://github.com/user-attachments/assets/49ba0570-d380-4591-ba36-d50e7632d763)
-
-![4870a8b6-9172-4075-8cc8-48c4f6f5d970](https://github.com/user-attachments/assets/f0c6e575-e99d-48b9-bd2b-897bc39c9f69)
-
-![e198db08-18b0-4381-8660-bcda84fe872f](https://github.com/user-attachments/assets/c6c3e1aa-1b5e-47d5-9b8e-cfe5a883896a)
 
 ---
 
@@ -86,6 +55,36 @@ Através do **OtimizaEstoque.com.br**, o empresário e o gestor de estoque têm 
 
 - **Foco na Inovação**: Com a integração de IA, cada ação tomada é um passo em direção à **transformação digital** da sua empresa, otimizando operações e criando uma vantagem competitiva no mercado.
 
+
+![chrome_EAfxpGdy5F](https://github.com/user-attachments/assets/27130338-9f54-49c3-b1df-c5561ccd6be4)
+
+![chrome_SqdcoMVySm](https://github.com/user-attachments/assets/0d0f2150-f5b2-4288-a26a-b3abb64b477c)
+
+![chrome_u1Um62q6qP](https://github.com/user-attachments/assets/3f99b029-8eb7-4f90-86d2-6e1c4348e6cf)
+
+![chrome_YAUGHDjfFB](https://github.com/user-attachments/assets/6a155017-3869-4f4f-a998-c1d8b28e10e8)
+
+![chrome_Q8NFw3uPr7](https://github.com/user-attachments/assets/9b14f2b2-060f-4c35-a7e7-deefc212282e)
+
+![chrome_l2NeZu6ALc](https://github.com/user-attachments/assets/83c9e505-4f37-4c28-9182-93ab1b161683)
+
+![chrome_7ARIsI1pyb](https://github.com/user-attachments/assets/65ae335d-0ba2-40cf-9c44-395427d1669d)
+
+![chrome_ngBLFdMmNX](https://github.com/user-attachments/assets/d7b07b16-f95d-4fe3-8950-a3d8d70f13af)
+
+![chrome_dEblMFil0k](https://github.com/user-attachments/assets/1d878fa9-db9c-48ad-9073-8a8bdfbf198e)
+
+![chrome_yyzhA0uLw5](https://github.com/user-attachments/assets/5ed939dc-ba2d-48b4-857c-f414121eca29)
+
+![chrome_0golEkLNtO](https://github.com/user-attachments/assets/1dfd8276-9b07-4532-bce4-a47aeb661121)
+
+![chrome_XkSW2vBEj1](https://github.com/user-attachments/assets/76c63e5a-a4cd-4057-9b69-ceb30cc888b2)
+
+![chrome_RCRQh4Zq4U](https://github.com/user-attachments/assets/ee2d91ca-f1e5-49c5-959e-ad874e080a91)
+
+![chrome_AD4VqkWvcW](https://github.com/user-attachments/assets/0f7e30f6-d4bc-4fd0-bda5-9ba04a6597fa)
+
+
 ---
 
 ## 🔧 Tecnologias Utilizadas
@@ -115,6 +114,11 @@ Atualmente, o **OtimizaEstoque.com.br** está na **fase final de desenvolvimento
 - **Otimização de Compras**: Através da previsão de demanda e análise contínua de fornecedores, o sistema otimiza as compras, garantindo o melhor custo-benefício para cada transação.
 
 - **Gestão de Filiais**: Integra todas as unidades de negócios (filiais) em um único sistema, permitindo comunicação em tempo real e decisões rápidas baseadas em dados integrados.
+
+![4870a8b6-9172-4075-8cc8-48c4f6f5d970](https://github.com/user-attachments/assets/f0c6e575-e99d-48b9-bd2b-897bc39c9f69)
+
+![e198db08-18b0-4381-8660-bcda84fe872f](https://github.com/user-attachments/assets/c6c3e1aa-1b5e-47d5-9b8e-cfe5a883896a)
+
 
 ---
 
